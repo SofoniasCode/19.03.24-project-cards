@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+div h1{
+    border-style: solid;
+    border-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+div p{
+    border-style: solid;
+    border-color:blue;
+    padding: 10px;
+
+}
+div{
+    border-style: solid;
+    border-color:black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+    background-color: aqua;
+    margin: 10px;
+
+}
